@@ -136,11 +136,8 @@ By combining local logging with official reference data, Breathe can be used as 
 - Integration with AEMET or other meteorological APIs.
 - Better power management for autonomous deployments.
 
-## License
-
-Add the appropriate license for your project here.
 
 ## Author
 
-Diego Martinez Megias
-Javier Garcia Moriche
+-Diego Martinez Megias
+-Javier Garcia Moriche
