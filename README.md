@@ -139,5 +139,5 @@ By combining local logging with official reference data, Breathe can be used as 
 
 ## Author
 
--Diego Martinez Megias
--Javier Garcia Moriche
+-Diego Martinez Megias.
+-Javier Garcia Moriche.
