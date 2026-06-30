@@ -41,6 +41,9 @@ The project uses the following components:
 
 The ENV III module communicates over **I2C** and provides temperature, humidity, and pressure readings. The SPS30 sensor adds particle concentration measurements, enabling a broader characterization of air quality. The design is based on a modular architecture that separates sensing, time synchronization, display, and storage responsibilities.
 
+<img width="581" height="649" alt="image" src="https://github.com/user-attachments/assets/0ecb42bc-175f-40df-a53f-982b9818e592" />
+
+
 ## Sensor Details
 
 ### ENV III
