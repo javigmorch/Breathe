@@ -39,9 +39,9 @@ The project uses the following components:
 - **SPS30**: Particulate matter sensor for fine dust measurement.
 - **SD card**: Local storage for logs and configuration files.
 
-<img width="295" height="267" alt="image" src="https://github.com/user-attachments/assets/bd1fc468-c382-48b8-8d87-25c9d252b651" />
+<img width="295" height="260" alt="image" src="https://github.com/user-attachments/assets/bd1fc468-c382-48b8-8d87-25c9d252b651" />
 <img width="295" height="260" alt="image" src="https://github.com/user-attachments/assets/8788ad52-069d-4dc4-8e84-3c35ccd255a3" />
-<img width="247" height="251" alt="image" src="https://github.com/user-attachments/assets/071c0a35-b8d6-4390-af05-62527e6a70cf" />
+<img width="295" height="260" alt="image" src="https://github.com/user-attachments/assets/071c0a35-b8d6-4390-af05-62527e6a70cf" />
 
 The ENV III module communicates over **I2C** and provides temperature, humidity, and pressure readings. The SPS30 sensor adds particle concentration measurements, enabling a broader characterization of air quality. The design is based on a modular architecture that separates sensing, time synchronization, display, and storage responsibilities.
 
